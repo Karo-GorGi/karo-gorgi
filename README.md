@@ -1,7 +1,6 @@
 <div align="center">
   
   # 👋 Hi I'm Karo known as Vein
-![](https://github-readme-streak-stats.herokuapp.com/?user=Karo-GorGi&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Karo-GorGi&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <div align="left">
